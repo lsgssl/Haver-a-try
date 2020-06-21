@@ -1,2 +1,2 @@
-# Haver-a-try
-Hello world
+#Have a try
+print("Hello world")
